@@ -1,0 +1,11 @@
+# Variables
+# Identifier = value
+
+# String
+Name = 'Monkey D Luffy'
+
+# Integer
+Age = 23
+
+# Boolean
+is_pirate = True
