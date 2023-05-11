@@ -1,0 +1,9 @@
+# Functions
+
+def my_intro():
+    print("Hello I am Luffy")
+    print("I will be the Pirate King")
+
+
+print("One Piece")
+my_intro()
