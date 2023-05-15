@@ -1,0 +1,14 @@
+# Classes & Constructors
+
+class Person:
+    def __init__(self, name):
+        self.name = name
+
+    def talk(self):
+        print(f"{self.name} is talking.")
+
+# Creating an instance of the Person class
+person1 = Person("Alice")
+
+# Calling the talk method of person1
+person1.talk()
