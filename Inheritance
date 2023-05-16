@@ -1,0 +1,12 @@
+# Inheritance
+
+class Car:
+    def drive(self):
+        print("Vroom Vroom")
+
+
+class Audi(Car):
+    pass
+
+Audi1 = Audi()
+Audi1.drive()
